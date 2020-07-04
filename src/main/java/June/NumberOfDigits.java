@@ -6,7 +6,7 @@ public class NumberOfDigits {
 		// TODO Auto-generated method stub
 
 	long n = 9;
-	
+	//number program
 	int noOfDigits = numDigitsCalc(n);
 	System.out.println("Number of digits in "+n+" is "+noOfDigits );		
 	}
